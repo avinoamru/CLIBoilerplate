@@ -10,4 +10,6 @@ public class BaseModel
 
     public void SetView(BaseView aView)
     {view = aView;}
+
+    
 }
